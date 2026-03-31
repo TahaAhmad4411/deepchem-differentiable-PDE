@@ -11,7 +11,3 @@ This project implements a differentiable finite element method (FEM) solver usin
 ## Results
 - Convergence rate ~ O(h²)
 - Successful inverse problem optimization (>99% loss reduction)
-
-## Next Steps
-- Add visualization
-- Compare with standard FEM solvers
